@@ -1,4 +1,0 @@
- version: "3"
-   services:
-      myrepo:
-       image: myrepo.com/myimage:1141110.0.1
