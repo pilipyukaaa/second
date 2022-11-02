@@ -1,4 +1,4 @@
  version: "3"
    services:
       myrepo:
-       image: myrepo.com/myimage:119
+       image: myrepo.com/myimage:0.0.1
